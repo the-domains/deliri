@@ -1,7 +1,7 @@
 name: Ase Deliri
 favicon: null
-layout_spectrum: 0.285152870696038
-typography_spectrum: 0.6478122910484672
+layout_spectrum: 0.14064
+typography_spectrum: 0.60542
 title: Infinite Thoughts
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   brandStrength: 0.5461723529733717
-  lightness: 0.12278028717264533
+  lightness: 0.625
   saturation: 0.5690070518758148
-  rhythmicContrast: 0.3756878934800625
+  rhythmicContrast: 0.75
 purpose: []
