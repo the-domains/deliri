@@ -4,7 +4,7 @@
         <description><![CDATA[Infinite Thoughts]]></description>
         <link>https://thegrid.ai/deliri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 23:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 23:19:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deliri/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -31,13 +31,6 @@ Have more questions than answers, and be excellent to each other.
             <link>https://thegrid.ai/deliri/53c0bd0e-0643-458f-bbcc-188394c9bb0c/index.html</link>
             <guid isPermaLink="false">53c0bd0e-0643-458f-bbcc-188394c9bb0c</guid>
             <pubDate>Sun, 06 Mar 2016 23:17:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29283c42-1123-4e9a-bcc4-ff7e77231a54.png">]]></description>
-            <link>https://thegrid.ai/deliri/49b8cea8-64c3-403d-8611-e22fe36d5bfe/index.html</link>
-            <guid isPermaLink="false">49b8cea8-64c3-403d-8611-e22fe36d5bfe</guid>
-            <pubDate>Sun, 06 Mar 2016 23:14:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
